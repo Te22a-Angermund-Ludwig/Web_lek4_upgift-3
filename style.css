@@ -1,0 +1,11 @@
+body{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+    grid-template-rows: 1fr auto auto 1fr;
+    background-image: url(./bilder/winter_bg3.jpg);
+}
+
+header{
+text-align: center;
+
+}
